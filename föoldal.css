@@ -27,4 +27,16 @@ blockquote{
 }
 body{
     background-color:rgba(181, 143, 143, 1) ;
+
+}
+
+img{
+    margin-left: 380px;
+    m-right: 25px;
+    width: 12cm;
+    height: 9cm;
+    align-content: center;
+}
+nav{
+    background-color: aqua;
 }
