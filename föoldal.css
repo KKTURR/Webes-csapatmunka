@@ -15,16 +15,7 @@ img{
     margin-left: 12cm;
 }
 
-blockquote{
-    -ms-text-align-last: center;
-    background-color: red;
-    color: azure ;
-    margin-left: 50px;
-    margin-right: 50px;
-    text-align:center ;
-    height: 120px ;
-    font-size: xx-large;
-}
+
 body{
     background-color:rgba(181, 143, 143, 1) ;
 
@@ -32,11 +23,12 @@ body{
 
 img{
     margin-left: 380px;
-    m-right: 25px;
+    margin-right: 25px;
     width: 12cm;
     height: 9cm;
     align-content: center;
 }
 nav{
     background-color: aqua;
+    
 }
