@@ -29,6 +29,8 @@ img{
     align-content: center;
 }
 nav{
-    background-color: aqua;
-    
+    color: aqua;
+    background: fixed;
+    background-color: blueviolet;
+
 }
