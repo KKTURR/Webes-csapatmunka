@@ -1,0 +1,240 @@
+box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v5_26 {
+    width: 100%;
+    height: 1080px;
+    background: rgba(181,143,143,1);
+    padding: 77px 444px;
+    margin: 10px;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.v5_36 {
+  width: 100%;
+  height: 78px;
+  background: rgba(87,75,75,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v5_37 {
+  width: 185px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 12px;
+  left: 30px;
+  font-family: Inter;
+  font-weight: Black;
+  font-size: 50px;
+  opacity: 1;
+  text-align: left;
+}
+.v5_38 {
+  width: 189px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 16px;
+  left: 474px;
+  font-family: Inter;
+  font-weight: Black;
+  font-size: 50px;
+  opacity: 1;
+  text-align: left;
+}
+.v5_39 {
+  width: 220px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 15px;
+  left: 234px;
+  font-family: Inter;
+  font-weight: Black;
+  font-size: 50px;
+  opacity: 1;
+  text-align: left;
+}
+.v5_40 {
+  width: 231px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 15px;
+  left: 683px;
+  font-family: Inter;
+  font-weight: Black;
+  font-size: 50px;
+  opacity: 1;
+  text-align: left;
+}
+.v5_41 {
+  width: 522px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 12px;
+  left: 944px;
+  font-family: Inter;
+  font-weight: Black;
+  font-size: 50px;
+  opacity: 1;
+  text-align: left;
+}
+.v5_42 {
+  width: 131px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 9px;
+  left: 1496px;
+  font-family: Inter;
+  font-weight: Black;
+  font-size: 50px;
+  opacity: 1;
+  text-align: left;
+}
+.v5_44 {
+  width: 906px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 86px;
+  left: 561px;
+  font-family: Inter;
+  font-weight: Black;
+  font-size: 50px;
+  opacity: 1;
+  text-align: left;
+}
+.v5_45 {
+  width: 254px;
+  height: 258px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 135px;
+  left: 0px;
+  overflow: hidden;
+}
+.v5_46 {
+  width: 254px;
+  height: 258px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 465px;
+  left: 10px;
+  overflow: hidden;
+}
+.v5_47 {
+  width: 244px;
+  height: 258px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 781px;
+  left: 8px;
+  overflow: hidden;
+}
+.v5_59 {
+  width: 250px;
+  height: 257px;
+  background: url("./Kepek01/2639_egyszeru-fa-madarodu-ingyenes-tervrajzzal-barkacsolas.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 782px;
+  left: 8px;
+  overflow: hidden;
+}
+.v5_48 {
+  width: 346px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 192px;
+  left: 404px;
+  font-family: Inter;
+  font-weight: Black;
+  font-size: 50px;
+  opacity: 1;
+  text-align: left;
+}
+.v5_49 {
+  width: 550px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 314px;
+  left: 404px;
+  font-family: Inter;
+  font-weight: Black;
+  font-size: 50px;
+  opacity: 1;
+  text-align: left;
+}
+.v5_50 {
+  width: 594px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 465px;
+  left: 404px;
+  font-family: Inter;
+  font-weight: Black;
+  font-size: 50px;
+  opacity: 1;
+  text-align: left;
+}
+.v5_51 {
+  width: 787px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 580px;
+  left: 404px;
+  font-family: Inter;
+  font-weight: Black;
+  font-size: 50px;
+  opacity: 1;
+  text-align: left;
+}
+.v5_52 {
+  width: 262px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 844px;
+  left: 404px;
+  font-family: Inter;
+  font-weight: Black;
+  font-size: 50px;
+  opacity: 1;
+  text-align: left;
+}
+.v5_53 {
+  width: 473px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 950px;
+  left: 404px;
+  font-family: Inter;
+  font-weight: Black;
+  font-size: 50px;
+  opacity: 1;
+  text-align: left;
+}
+.v5_56 {
+  width: 244px;
+  height: 258px;
+  background: url("./Kepek01/2763_oriasi-karacsonyi-amoba-fabol-barkacsolas.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 135px;
+  left: 10px;
+  overflow: hidden;
+}
